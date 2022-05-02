@@ -133,3 +133,4 @@ function reiniciar() {
 
     mudarJogador( valor = 'X');
 }
+
